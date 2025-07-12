@@ -50,7 +50,7 @@ README.md
 
 ## 📸 Demo
 
-![screenshot](res/image.jpg)  
+![screenshot](res/UML_Diagram.jpg)  
 🎥 [Demo Video](res/demo.mp4)
 
 ---
