@@ -45,23 +45,8 @@ This project is structured around key OOP concepts:
 /src/                     → Main source code
 /data/                    → CSV files for storage
 /res/                     → Resources (images, videos)
-/docs/architecture.puml   → UML diagram for architecture
 README.md
-LICENSE
 ```
-
----
-
-## ▶️ How to Run
-
-```bash
-g++ src/main.cpp -o cafenea
-./cafenea
-```
-
-> Requires C++11 or higher.
-
----
 
 ## 📸 Demo
 
