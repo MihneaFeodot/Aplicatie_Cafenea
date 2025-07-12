@@ -50,7 +50,7 @@ README.md
 
 ## 📸 Demo
 
-![screenshot](res/imagine.jpg)  
+![screenshot](res/image.jpg)  
 🎥 [Demo Video](res/demo.mp4)
 
 ---
