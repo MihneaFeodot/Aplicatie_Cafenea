@@ -51,7 +51,7 @@ README.md
 ## 📸 Demo
 
 ![screenshot](res/UML_Diagram.jpg)  
-🎥 [Demo Video](res/demo.mp4)
+🎥 [Demo Video](res/Demo.mp4)
 
 ---
 
